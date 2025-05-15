@@ -6,9 +6,9 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
 
-Whose repo is it? Who is contributing to it?
+This repo is for testing forking and practicing commiting and pushing. 
+
 
 ## Data and file information
 
